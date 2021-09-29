@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "razlomak_u_mesoviti_broj/1.0.0": {
+        "runtime": {
+          "razlomak_u_mesoviti_broj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "razlomak_u_mesoviti_broj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
